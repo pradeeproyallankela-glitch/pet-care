@@ -1,0 +1,8 @@
+{
+  "name": "pawcare-pet-care-management",
+  "version": "1.0.0",
+  "description": "PawCare Pet Care Management System - Express and MySQL CRUD mini project",
+  "main": "app.js",
+  "scripts": { "start": "node app.js" },
+  "dependencies": { "express": "^5.2.1", "mysql8": "^2.17.3" }
+}
